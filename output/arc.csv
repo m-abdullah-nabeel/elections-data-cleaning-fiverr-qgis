@@ -1,0 +1,6 @@
+,cabecera,reg_ayu_numdto,reg_ayu_distrito,reg_ayu_nummpio,reg_ayu_municipio,tiposec,seccion,casilla,tipocasilla,idcasilla,extcont,abreviatura,listanom,hombres,mujeres,pan,pri,prd,pvem,pt,mc,morena,txver,podemos,pc,uc,pes,rsp,fxm,ci1,ci2,cnr,vn
+0,0,1,01 PANUCO,124,PANUCO,U,2814,BÁSICA,B,1,0,B1,711,337,374,193,22,4.0,20,5.0,6,219,2.0,1.0,0.0,0.0,2.0,10.0,1.0,,,1,10
+1,0,1,01 PANUCO,124,PANUCO,U,2815,BÁSICA,B,1,0,B1,443,205,238,71,14,1.0,14,4.0,2,159,2.0,0.0,0.0,1.0,2.0,2.0,0.0,,,0,3
+2,0,1,01 PANUCO,124,PANUCO,U,2815,CONTIGUA 1,C,1,0,C1,443,207,236,48,8,3.0,8,3.0,2,185,1.0,0.0,0.0,0.0,2.0,6.0,0.0,,,0,7
+3,0,1,01 PANUCO,124,PANUCO,U,2816,BÁSICA,B,1,0,B1,534,255,279,69,18,2.0,8,3.0,5,196,2.0,0.0,0.0,2.0,6.0,3.0,1.0,,,0,7
+4,0,1,01 PANUCO,124,PANUCO,U,2816,CONTIGUA 1,C,1,0,C1,534,244,290,84,7,2.0,14,8.0,1,191,4.0,0.0,1.0,4.0,2.0,3.0,2.0,,,0,7
